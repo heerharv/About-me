@@ -6,4 +6,4 @@
 🔹 Currently Learning:** DevOps, CI/CD, Cloud Deployment  
 🔹 Looking for:Full stack internship
 
-📫 Connect with me: [LinkedIn]([your-linkedin](https://www.linkedin.com/in/heerha-valecha-3b289b252/)) | [GitHub]([your-github](https://github.com/heerharv)) | [email][heerhavalecha004@gmail.com] 
+📫 Connect with me: [LinkedIn]([(https://www.linkedin.com/in/heerha-valecha-3b289b252/)]) | [GitHub]([your-github](https://github.com/heerharv)]) | [email][heerhavalecha004@gmail.com] 
